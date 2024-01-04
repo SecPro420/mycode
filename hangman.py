@@ -3,7 +3,7 @@
 import random
 
 def choose_word():
-    words = ["python", "programming", "challenge", "hangman", "coding"]
+    words = ["cobra", "dancer", "mermaid", "batminton", "antidisestablishmentarianism", "supercalifragilisticexpialidocious"]
     return random.choice(words)
 
 def display_word(word, guessed_letters):
