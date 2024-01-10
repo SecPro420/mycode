@@ -58,7 +58,7 @@ rooms = {
             'Living Room' : {
                 'south' : 'Garden',
                 'east' : 'Hall',
-                'item' : 'broadsword',
+                'item' : 'monsterslayer sword',
             },
          }
 
